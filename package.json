@@ -1,0 +1,15 @@
+{
+  "name": "draw-names-in-a-circle",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "start": "node names-in-a-circle"
+  },
+  "dependencies": {
+    "chalk": "^5.0.0",
+    "commander": "^8.3.0",
+    "conf": "^10.1.1",
+    "gojs": "^2.1.56",
+    "puppeteer": "^13.0.1"
+  }
+}
